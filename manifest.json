@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.1",
+  "repository": {
+    "author": "Example Community",
+    "name": "epic-rpg-guides",
+    "description": "Comprehensive mock guides for LibreWalk.",
+    "last_updated": "2026-03-09T10:00:00Z"
+  },
+  "games": [
+    {
+      "id": "epic-rpg",
+      "title": "Epic RPG",
+      "platform": ["PC", "PS5"],
+      "coverUrl": "assets/covers/epic_rpg.webp",
+      "categories": [
+        {
+          "id": "main-story",
+          "title": "Main Story",
+          "guides": [
+            {
+              "id": "mission-1",
+              "title": "Mission 1: Welcome to Example",
+              "author": "LibreWalk Admin",
+              "last_updated": "2026-03-09T12:00:00Z",
+              "locales": {
+                "en": "guides/epic-rpg/main/mission-1-en.md"
+              }
+            },
+            {
+              "id": "mission-2",
+              "title": "Mission 2: Markdown Test",
+              "author": "LibreWalk Admin",
+              "last_updated": "2026-03-09T13:00:00Z",
+              "locales": {
+                "en": "guides/epic-rpg/main/mission-2-en.md"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dlc-1",
+          "title": "DLC 1: Missing Links",
+          "guides": [
+            {
+              "id": "dlc-mission-1",
+              "title": "Link Stripping Test",
+              "author": "LibreWalk Admin",
+              "last_updated": "2026-03-09T10:00:00Z",
+              "locales": {
+                "en": "guides/epic-rpg/dlc/dlc-1-en.md"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dummy-game",
+      "title": "Dummy Game 2",
+      "platform": ["Switch"],
+      "categories": [
+        {
+          "id": "main-story",
+          "title": "Main Story",
+          "guides": [
+            {
+              "id": "start",
+              "title": "Quick Start Guide",
+              "author": "LibreWalk Admin",
+              "last_updated": "2026-03-09T12:00:00Z",
+              "locales": {
+                "en": "guides/dummy-game/main/start-en.md"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
