@@ -7,6 +7,8 @@ This is a real **Markdown** file served entirely offline from a zipped archive d
 - Equip the rusty sword
 - Defeat the first slime
 
+![Pixabay Test Image](../../../../assets/images/test_image.jpg)
+
 | Enemy | Health | Weakness |
 | :--- | :--- | :--- |
 | Slime | 10 HP | Fire |
