@@ -7,7 +7,7 @@ Ceci est un vrai fichier **Markdown** servi entièrement hors-ligne depuis une a
 - Équiper l'épée rouillée
 - Vaincre le premier slime
 
-![Image Test Pixabay](../../../../assets/images/test_image.jpg)
+![Image Test Pixabay](../../../assets/images/test_image.jpg)
 
 | Ennemi | Santé | Faiblesse |
 | :--- | :--- | :--- |
